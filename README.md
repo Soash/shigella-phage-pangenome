@@ -73,49 +73,8 @@ This study provides a comparative genomic baseline for understanding the diversi
 
 These findings may help guide future studies of phage diversity and the design of phage cocktails. However, genomic screening alone does not establish therapeutic efficacy or safety. Candidate phages require further biological characterization and experimental validation before therapeutic use can be assessed.
 
-## Repository Contents
-
-The repository can be organized as follows as project files become available:
-
-```text
-shigella-phage-pangenome/
-├── README.md
-├── data/
-│   └── README.md
-├── scripts/
-│   └── README.md
-├── results/
-│   └── README.md
-├── figures/
-│   └── README.md
-└── docs/
-    └── README.md
-```
-
-Only add directories and files that actually exist in the repository. Do not upload copyrighted database records or large raw datasets without checking the relevant database terms and repository limits.
-
-## Reproducibility and Data Availability
-
-The study used complete *Shigella* bacteriophage genomes retrieved from NCBI RefSeq. For reproducibility, the repository should include the accession numbers of all 54 genomes, software versions, analysis commands or scripts, and the processed result tables and figures where available.
-
-**Genome accession list:** To be added.  
-**Software versions and commands:** To be added.  
-**Processed data and figures:** To be added as files are prepared.
-
-## Citation
-
-If you use or discuss this work, please cite the associated manuscript or preprint once a formal citation is available.
-
-**Manuscript status:** Add the current status here (for example, ongoing project, preprint, submitted, or published).
-
-## Contact
-
-**Md Abu Sadat Soash**  
-Department of Genetic Engineering and Biotechnology  
-Shahjalal University of Science and Technology  
-Sylhet-3114, Bangladesh  
-Email: [mdabu13@student.sust.edu](mailto:mdabu13@student.sust.edu)
-
 ---
 
 *This repository documents a comparative bioinformatics research project. Findings are based on the sampled public genomes and computational analyses described above; they should not be interpreted as clinical evidence of phage safety or efficacy.*
+
+---
