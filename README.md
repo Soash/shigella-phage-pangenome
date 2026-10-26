@@ -1,8 +1,8 @@
 # Comparative Pan-Genomic and Functional Analysis of *Shigella* Bacteriophages Reveals a Fragmented, Genome Size-Linked Population Structure
 
-Md Abu Sadat Soash  
-Department of Genetic Engineering and Biotechnology <br>
-Shahjalal University of Science and Technology, Sylhet, Bangladesh  
+**Author(s):** Md Abu Sadat Soash  
+*Department of Genetic Engineering and Biotechnology*<br>
+*Shahjalal University of Science and Technology, Sylhet, Bangladesh*
 
 ---
 
